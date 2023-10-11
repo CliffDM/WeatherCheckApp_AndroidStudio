@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather Check App</string>
+    <string name="header">Weather Check App</string>
+    <string name="author">By Clifford D. Mandagi</string>
+    <string name="hintCity">Masukkan Nama Kota</string>
+    <string name="search">Search</string>
+    <string name="imgDesc">Weather</string>
+</resources>
